@@ -1,0 +1,15 @@
+#Internal package file, do not edit.
+#Tue Nov 13 06:21:46 ICT 2018
+1.base=D\:\\PROJECT\\Programming\\Android\\PDF Creator 2\\app\\build\\intermediates\\merged_assets\\debug\\mergeDebugAssets\\out
+2.path=fonts/WINGDNG2.TTF
+0.baseType=DIRECTORY
+2.base=D\:\\PROJECT\\Programming\\Android\\PDF Creator 2\\app\\build\\intermediates\\merged_assets\\debug\\mergeDebugAssets\\out
+2.set=ASSET
+1.baseType=DIRECTORY
+count=3
+1.set=ASSET
+0.path=fonts/Roboto-Medium.ttf
+0.set=ASSET
+0.base=D\:\\PROJECT\\Programming\\Android\\PDF Creator 2\\app\\build\\intermediates\\merged_assets\\debug\\mergeDebugAssets\\out
+2.baseType=DIRECTORY
+1.path=images/img.jpg

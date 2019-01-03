@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">PDF Creator 2</string>
+    <string-array name="TipeCuti">
+        <item>Tahunan</item>
+        <item>Besar</item>
+        <item>Bersalin</item>
+    </string-array>
+    <string-array name="AlasanPenting">
+        <item>Sakit</item>
+        <item>Haid</item>
+        <item>Gugur Kandungan</item>
+        <item>Di Luar Tanggungan Perusahaan</item>
+        <item>Perpanjangan Izin Di Luar Tanggungan Perusahaan</item>
+    </string-array>
+    <string-array name="LamaCuti">
+        <item>1 Hari</item>
+        <item>2 Hari</item>
+        <item>3 Hari</item>
+        <item>4 Hari</item>
+        <item>5 Hari</item>
+        <item>6 Hari</item>
+        <item>7 Hari</item>
+        <item>8 Hari</item>
+        <item>9 Hari</item>
+        <item>10 Hari</item>
+        <item>11 Hari</item>
+        <item>12 Hari</item>
+    </string-array>
+    <string name="pick_file">Pick file</string>
+    <string name="toast_pick_file_error">Unable to pick file. Check status of file manager.</string>
+    <string name="title_activity_view">ViewActivity</string>
+</resources>

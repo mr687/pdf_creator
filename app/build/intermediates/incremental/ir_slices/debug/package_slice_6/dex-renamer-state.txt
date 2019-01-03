@@ -1,0 +1,4 @@
+#Sun Nov 25 10:04:06 ICT 2018
+base.0=D\:\\PROJECT\\Programming\\Android\\PDF Creator 2\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\6
+path.0=classes.dex
+renamed.0=classes.dex

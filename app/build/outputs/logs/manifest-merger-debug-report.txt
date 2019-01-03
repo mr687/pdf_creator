@@ -1,0 +1,157 @@
+-- Merging decision tree log ---
+provider#android.support.v4.content.FileProvider
+INJECTED from D:\PROJECT\Programming\Android\PDF Creator 2\app\src\main\AndroidManifest.xml:15:9-23:20
+	android:grantUriPermissions
+		ADDED from D:\PROJECT\Programming\Android\PDF Creator 2\app\src\main\AndroidManifest.xml:19:13-47
+	android:authorities
+		INJECTED from D:\PROJECT\Programming\Android\PDF Creator 2\app\src\main\AndroidManifest.xml
+		ADDED from D:\PROJECT\Programming\Android\PDF Creator 2\app\src\main\AndroidManifest.xml:17:13-60
+	android:exported
+		ADDED from D:\PROJECT\Programming\Android\PDF Creator 2\app\src\main\AndroidManifest.xml:18:13-37
+	android:name
+		ADDED from D:\PROJECT\Programming\Android\PDF Creator 2\app\src\main\AndroidManifest.xml:16:13-67
+manifest
+ADDED from D:\PROJECT\Programming\Android\PDF Creator 2\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from D:\PROJECT\Programming\Android\PDF Creator 2\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from D:\PROJECT\Programming\Android\PDF Creator 2\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from D:\PROJECT\Programming\Android\PDF Creator 2\app\src\main\AndroidManifest.xml:2:1-40:12
+MERGED from [com.android.support:design:24.1.1] C:\Users\daphino\.gradle\caches\transforms-1\files-1.1\design-24.1.1.aar\13b2c8cbb4e4f08880065c886fdd9401\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:24.1.1] C:\Users\daphino\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.1.1.aar\003e5a8c51313faf78bee570a02add29\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\daphino\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\e5b5e2ce55f717a63759e585859e6d04\AndroidManifest.xml:2:1-11:12
+MERGED from [com.borax12.materialdaterangepicker:library:1.9] C:\Users\daphino\.gradle\caches\transforms-1\files-1.1\library-1.9.aar\51463fc70f7789802c24340290445ce3\AndroidManifest.xml:17:1-30:12
+MERGED from [com.kyanogen.signatureview:signature-view:1.0] C:\Users\daphino\.gradle\caches\transforms-1\files-1.1\signature-view-1.0.aar\9ee53047b62aa5d02380311e1fd23ce7\AndroidManifest.xml:2:1-16:12
+MERGED from [com.android.support:animated-vector-drawable:24.1.1] C:\Users\daphino\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.1.1.aar\0df752627f0058830210aa0fc74e72fe\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:24.1.1] C:\Users\daphino\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.1.1.aar\ffa17852e9ce1b9bfc63c44e737496c2\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:recyclerview-v7:24.1.1] C:\Users\daphino\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-24.1.1.aar\70e5abbfafaf7a68bfcb5c1516536bb4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:24.1.1] C:\Users\daphino\.gradle\caches\transforms-1\files-1.1\support-v4-24.1.1.aar\fba838546a45ee887d80fbe858bb2c12\AndroidManifest.xml:17:1-27:12
+INJECTED from D:\PROJECT\Programming\Android\PDF Creator 2\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from D:\PROJECT\Programming\Android\PDF Creator 2\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from D:\PROJECT\Programming\Android\PDF Creator 2\app\src\main\AndroidManifest.xml:2:1-40:12
+	package
+		ADDED from D:\PROJECT\Programming\Android\PDF Creator 2\app\src\main\AndroidManifest.xml:3:5-38
+		INJECTED from D:\PROJECT\Programming\Android\PDF Creator 2\app\src\main\AndroidManifest.xml
+		INJECTED from D:\PROJECT\Programming\Android\PDF Creator 2\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\PROJECT\Programming\Android\PDF Creator 2\app\src\main\AndroidManifest.xml
+		ADDED from D:\PROJECT\Programming\Android\PDF Creator 2\app\src\main\AndroidManifest.xml:2:1-40:12
+		INJECTED from D:\PROJECT\Programming\Android\PDF Creator 2\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\PROJECT\Programming\Android\PDF Creator 2\app\src\main\AndroidManifest.xml
+		ADDED from D:\PROJECT\Programming\Android\PDF Creator 2\app\src\main\AndroidManifest.xml:2:1-40:12
+		INJECTED from D:\PROJECT\Programming\Android\PDF Creator 2\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\PROJECT\Programming\Android\PDF Creator 2\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\PROJECT\Programming\Android\PDF Creator 2\app\src\main\AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from D:\PROJECT\Programming\Android\PDF Creator 2\app\src\main\AndroidManifest.xml:5:22-78
+uses-permission#android.permission.STORAGE
+ADDED from D:\PROJECT\Programming\Android\PDF Creator 2\app\src\main\AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from D:\PROJECT\Programming\Android\PDF Creator 2\app\src\main\AndroidManifest.xml:6:22-63
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\PROJECT\Programming\Android\PDF Creator 2\app\src\main\AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from D:\PROJECT\Programming\Android\PDF Creator 2\app\src\main\AndroidManifest.xml:7:22-77
+application
+ADDED from D:\PROJECT\Programming\Android\PDF Creator 2\app\src\main\AndroidManifest.xml:9:5-38:19
+MERGED from [com.android.support:design:24.1.1] C:\Users\daphino\.gradle\caches\transforms-1\files-1.1\design-24.1.1.aar\13b2c8cbb4e4f08880065c886fdd9401\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:24.1.1] C:\Users\daphino\.gradle\caches\transforms-1\files-1.1\design-24.1.1.aar\13b2c8cbb4e4f08880065c886fdd9401\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:24.1.1] C:\Users\daphino\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.1.1.aar\003e5a8c51313faf78bee570a02add29\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:24.1.1] C:\Users\daphino\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.1.1.aar\003e5a8c51313faf78bee570a02add29\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\daphino\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\e5b5e2ce55f717a63759e585859e6d04\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\daphino\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\e5b5e2ce55f717a63759e585859e6d04\AndroidManifest.xml:9:5-20
+MERGED from [com.borax12.materialdaterangepicker:library:1.9] C:\Users\daphino\.gradle\caches\transforms-1\files-1.1\library-1.9.aar\51463fc70f7789802c24340290445ce3\AndroidManifest.xml:28:5-20
+MERGED from [com.borax12.materialdaterangepicker:library:1.9] C:\Users\daphino\.gradle\caches\transforms-1\files-1.1\library-1.9.aar\51463fc70f7789802c24340290445ce3\AndroidManifest.xml:28:5-20
+MERGED from [com.kyanogen.signatureview:signature-view:1.0] C:\Users\daphino\.gradle\caches\transforms-1\files-1.1\signature-view-1.0.aar\9ee53047b62aa5d02380311e1fd23ce7\AndroidManifest.xml:11:5-14:19
+MERGED from [com.kyanogen.signatureview:signature-view:1.0] C:\Users\daphino\.gradle\caches\transforms-1\files-1.1\signature-view-1.0.aar\9ee53047b62aa5d02380311e1fd23ce7\AndroidManifest.xml:11:5-14:19
+MERGED from [com.android.support:animated-vector-drawable:24.1.1] C:\Users\daphino\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.1.1.aar\0df752627f0058830210aa0fc74e72fe\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.1.1] C:\Users\daphino\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.1.1.aar\0df752627f0058830210aa0fc74e72fe\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.1.1] C:\Users\daphino\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.1.1.aar\ffa17852e9ce1b9bfc63c44e737496c2\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:24.1.1] C:\Users\daphino\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.1.1.aar\ffa17852e9ce1b9bfc63c44e737496c2\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:24.1.1] C:\Users\daphino\.gradle\caches\transforms-1\files-1.1\support-v4-24.1.1.aar\fba838546a45ee887d80fbe858bb2c12\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.1.1] C:\Users\daphino\.gradle\caches\transforms-1\files-1.1\support-v4-24.1.1.aar\fba838546a45ee887d80fbe858bb2c12\AndroidManifest.xml:25:5-20
+	android:supportsRtl
+		ADDED from D:\PROJECT\Programming\Android\PDF Creator 2\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from D:\PROJECT\Programming\Android\PDF Creator 2\app\src\main\AndroidManifest.xml:12:9-41
+	android:icon
+		ADDED from D:\PROJECT\Programming\Android\PDF Creator 2\app\src\main\AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from D:\PROJECT\Programming\Android\PDF Creator 2\app\src\main\AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from D:\PROJECT\Programming\Android\PDF Creator 2\app\src\main\AndroidManifest.xml:14:9-40
+activity#com.daphino.pdfcreator2.MainActivity
+ADDED from D:\PROJECT\Programming\Android\PDF Creator 2\app\src\main\AndroidManifest.xml:25:9-34:20
+	android:label
+		ADDED from D:\PROJECT\Programming\Android\PDF Creator 2\app\src\main\AndroidManifest.xml:28:13-45
+	android:exported
+		ADDED from D:\PROJECT\Programming\Android\PDF Creator 2\app\src\main\AndroidManifest.xml:27:13-36
+	android:name
+		ADDED from D:\PROJECT\Programming\Android\PDF Creator 2\app\src\main\AndroidManifest.xml:26:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\PROJECT\Programming\Android\PDF Creator 2\app\src\main\AndroidManifest.xml:29:13-33:29
+action#android.intent.action.MAIN
+ADDED from D:\PROJECT\Programming\Android\PDF Creator 2\app\src\main\AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from D:\PROJECT\Programming\Android\PDF Creator 2\app\src\main\AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\PROJECT\Programming\Android\PDF Creator 2\app\src\main\AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from D:\PROJECT\Programming\Android\PDF Creator 2\app\src\main\AndroidManifest.xml:32:27-74
+activity#com.daphino.pdfcreator2.DetailActivity
+ADDED from D:\PROJECT\Programming\Android\PDF Creator 2\app\src\main\AndroidManifest.xml:35:9-52
+	android:name
+		ADDED from D:\PROJECT\Programming\Android\PDF Creator 2\app\src\main\AndroidManifest.xml:35:19-49
+activity#com.daphino.pdfcreator2.AddActivity
+ADDED from D:\PROJECT\Programming\Android\PDF Creator 2\app\src\main\AndroidManifest.xml:36:9-49
+	android:name
+		ADDED from D:\PROJECT\Programming\Android\PDF Creator 2\app\src\main\AndroidManifest.xml:36:19-46
+activity#com.daphino.pdfcreator2.SignatureActivity
+ADDED from D:\PROJECT\Programming\Android\PDF Creator 2\app\src\main\AndroidManifest.xml:37:9-64
+	android:name
+		ADDED from D:\PROJECT\Programming\Android\PDF Creator 2\app\src\main\AndroidManifest.xml:37:19-52
+uses-sdk
+INJECTED from D:\PROJECT\Programming\Android\PDF Creator 2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\PROJECT\Programming\Android\PDF Creator 2\app\src\main\AndroidManifest.xml
+INJECTED from D:\PROJECT\Programming\Android\PDF Creator 2\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:24.1.1] C:\Users\daphino\.gradle\caches\transforms-1\files-1.1\design-24.1.1.aar\13b2c8cbb4e4f08880065c886fdd9401\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:24.1.1] C:\Users\daphino\.gradle\caches\transforms-1\files-1.1\design-24.1.1.aar\13b2c8cbb4e4f08880065c886fdd9401\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:24.1.1] C:\Users\daphino\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.1.1.aar\003e5a8c51313faf78bee570a02add29\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:24.1.1] C:\Users\daphino\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.1.1.aar\003e5a8c51313faf78bee570a02add29\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\daphino\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\e5b5e2ce55f717a63759e585859e6d04\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\daphino\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\e5b5e2ce55f717a63759e585859e6d04\AndroidManifest.xml:5:5-7:41
+MERGED from [com.borax12.materialdaterangepicker:library:1.9] C:\Users\daphino\.gradle\caches\transforms-1\files-1.1\library-1.9.aar\51463fc70f7789802c24340290445ce3\AndroidManifest.xml:22:5-24:41
+MERGED from [com.borax12.materialdaterangepicker:library:1.9] C:\Users\daphino\.gradle\caches\transforms-1\files-1.1\library-1.9.aar\51463fc70f7789802c24340290445ce3\AndroidManifest.xml:22:5-24:41
+MERGED from [com.kyanogen.signatureview:signature-view:1.0] C:\Users\daphino\.gradle\caches\transforms-1\files-1.1\signature-view-1.0.aar\9ee53047b62aa5d02380311e1fd23ce7\AndroidManifest.xml:7:5-9:41
+MERGED from [com.kyanogen.signatureview:signature-view:1.0] C:\Users\daphino\.gradle\caches\transforms-1\files-1.1\signature-view-1.0.aar\9ee53047b62aa5d02380311e1fd23ce7\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:animated-vector-drawable:24.1.1] C:\Users\daphino\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.1.1.aar\0df752627f0058830210aa0fc74e72fe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:24.1.1] C:\Users\daphino\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.1.1.aar\0df752627f0058830210aa0fc74e72fe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.1.1] C:\Users\daphino\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.1.1.aar\ffa17852e9ce1b9bfc63c44e737496c2\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:24.1.1] C:\Users\daphino\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.1.1.aar\ffa17852e9ce1b9bfc63c44e737496c2\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:24.1.1] C:\Users\daphino\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-24.1.1.aar\70e5abbfafaf7a68bfcb5c1516536bb4\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:24.1.1] C:\Users\daphino\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-24.1.1.aar\70e5abbfafaf7a68bfcb5c1516536bb4\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:24.1.1] C:\Users\daphino\.gradle\caches\transforms-1\files-1.1\support-v4-24.1.1.aar\fba838546a45ee887d80fbe858bb2c12\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:24.1.1] C:\Users\daphino\.gradle\caches\transforms-1\files-1.1\support-v4-24.1.1.aar\fba838546a45ee887d80fbe858bb2c12\AndroidManifest.xml:21:5-23:54
+INJECTED from D:\PROJECT\Programming\Android\PDF Creator 2\app\src\main\AndroidManifest.xml
+INJECTED from D:\PROJECT\Programming\Android\PDF Creator 2\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.1.1] C:\Users\daphino\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.1.1.aar\003e5a8c51313faf78bee570a02add29\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from D:\PROJECT\Programming\Android\PDF Creator 2\app\src\main\AndroidManifest.xml
+		ADDED from D:\PROJECT\Programming\Android\PDF Creator 2\app\src\main\AndroidManifest.xml
+		INJECTED from D:\PROJECT\Programming\Android\PDF Creator 2\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\PROJECT\Programming\Android\PDF Creator 2\app\src\main\AndroidManifest.xml
+		ADDED from D:\PROJECT\Programming\Android\PDF Creator 2\app\src\main\AndroidManifest.xml
+		INJECTED from D:\PROJECT\Programming\Android\PDF Creator 2\app\src\main\AndroidManifest.xml
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from D:\PROJECT\Programming\Android\PDF Creator 2\app\src\main\AndroidManifest.xml:20:13-22:58
+	android:resource
+		ADDED from D:\PROJECT\Programming\Android\PDF Creator 2\app\src\main\AndroidManifest.xml:22:17-55
+	android:name
+		ADDED from D:\PROJECT\Programming\Android\PDF Creator 2\app\src\main\AndroidManifest.xml:21:17-67
+uses-permission#android.permission.VIBRATE
+ADDED from [com.borax12.materialdaterangepicker:library:1.9] C:\Users\daphino\.gradle\caches\transforms-1\files-1.1\library-1.9.aar\51463fc70f7789802c24340290445ce3\AndroidManifest.xml:26:5-66
+	android:name
+		ADDED from [com.borax12.materialdaterangepicker:library:1.9] C:\Users\daphino\.gradle\caches\transforms-1\files-1.1\library-1.9.aar\51463fc70f7789802c24340290445ce3\AndroidManifest.xml:26:22-63
